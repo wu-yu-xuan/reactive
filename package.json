@@ -1,0 +1,11 @@
+{
+  "name": "reactive",
+  "version": "1.0.0",
+  "description": "a simple and noob reactive lib, inspired by Vue",
+  "main": "index.ts",
+  "author": "wyx",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node ./index.ts"
+  }
+}
